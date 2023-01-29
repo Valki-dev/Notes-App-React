@@ -1,0 +1,17 @@
+.note {
+    height: 200px;
+    overflow-y: auto;
+}
+
+.notesContainer {
+    border-radius: 10px;
+}
+
+.updateInput {
+    width: 380px;
+}
+
+.show {
+    background-color: rgba(0, 0, 0, 0.333);
+    display: block !important;
+}
